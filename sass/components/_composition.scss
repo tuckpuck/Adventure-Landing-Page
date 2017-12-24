@@ -2,7 +2,7 @@
   position: relative;
 
   &__photo {
-    width: 40%;
+    width: 55%;
     box-shadow: 0 1.5rem 4rem rgba($color-black,.4);
     border-radius: 2px;
     position: absolute;
@@ -16,7 +16,7 @@
       }
       &--p2 {
         right: 0;
-        top: 20rem;
+        top: 2rem;
       }
       &--p3 {
         left: 20%;

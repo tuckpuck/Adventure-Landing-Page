@@ -162,7 +162,7 @@ body {
 .composition {
   position: relative; }
   .composition__photo {
-    width: 40%;
+    width: 55%;
     box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
     border-radius: 2px;
     position: absolute;
@@ -174,7 +174,7 @@ body {
       top: -2rem; }
     .composition__photo--p2 {
       right: 0;
-      top: 20rem; }
+      top: 2rem; }
     .composition__photo--p3 {
       left: 20%;
       top: 10rem; }
